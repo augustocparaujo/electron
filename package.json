@@ -1,0 +1,14 @@
+{
+    "name": "jose",
+    "version": "1.0.0",
+    "description": "Sistema electron de aula",
+    "main": "index.js",
+    "scripts": {
+        "electron": "electron ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^11.1.1"
+    }
+}
